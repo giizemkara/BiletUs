@@ -1,6 +1,4 @@
-
-
-
+//coded by gizem
 package com.biletus.app;
 
 public class SearchHistoryModel {

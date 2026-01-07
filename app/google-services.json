@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "322573642080",
-    "firebase_url": "https://biletus-41665-default-rtdb.firebaseio.com",
-    "project_id": "biletus-41665",
-    "storage_bucket": "biletus-41665.firebasestorage.app"
+    "project_number": "1094281334404",
+    "firebase_url": "https://biletus-228c6-default-rtdb.firebaseio.com",
+    "project_id": "biletus-228c6",
+    "storage_bucket": "biletus-228c6.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:322573642080:android:e65c8f2fc8c4e8a9965605",
+        "mobilesdk_app_id": "1:1094281334404:android:af620ee1dbe725194cfcd1",
         "android_client_info": {
           "package_name": "com.biletus.app"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCDkyOePl2bCNej-uSR4VaIsYT8vYITOD4"
+          "current_key": "AIzaSyA_EIT8gDt_nYaVyeB4PSuyxsiv5Zz5-g8"
         }
       ],
       "services": {
